@@ -32,3 +32,6 @@ The goal of **HelloTextByteInOutLayer** is to provide a common abstraction that 
 * Unity
 * Godot
 * Any platform capable of sending and receiving text or binary messages
+
+
+
