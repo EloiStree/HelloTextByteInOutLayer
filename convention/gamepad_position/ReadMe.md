@@ -9,6 +9,7 @@ And
 
 For beginer, you could received your position in less hight frequence:
 ```
+I:INDEX
 P:X:Y:Z
 RQ:X:Y:Z:W
 RE:X:Y:Z
@@ -17,6 +18,7 @@ RE:X:Y:Z
 
 If the game provide the other player information:
 ```
+I_ALL:[INDEX]
 P_ALL:[X:Y:Z]*N
 PE_ALL:[X:Y:Z:X:Y:Z]*N
 ```
