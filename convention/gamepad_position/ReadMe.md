@@ -7,9 +7,17 @@ See [S2W Input](https://github.com/EloiStree/s2w)
 
 And 
 
-For beginer, you could received:
+For beginer, you could received your position in less hight frequence:
 ```
 P:X:Y:Z
 RQ:X:Y:Z:W
 RE:X:Y:Z
 ```
+
+
+If the game provide the other player information:
+```
+P_ALL:[X:Y:Z]*N
+PE_ALL:[X:Y:Z:X:Y:Z]*N
+```
+
