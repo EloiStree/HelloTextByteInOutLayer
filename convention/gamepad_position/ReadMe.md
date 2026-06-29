@@ -7,7 +7,9 @@ See [S2W Input](https://github.com/EloiStree/s2w)
 
 And 
 
-For beginer, you could received
+For beginer, you could received:
+```
 P:X:Y:Z
 RQ:X:Y:Z:W
 RE:X:Y:Z
+```
