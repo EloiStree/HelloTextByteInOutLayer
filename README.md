@@ -29,8 +29,8 @@ The goal of **HelloTextByteInOutLayer** is to provide a common abstraction that 
 
 * ESP32-S3 (Arduino)
 * Raspberry Pi Pico 2 W (CircuitPython)
-* Unity
-* Godot
+* Unity [Package](https://github.com/EloiStree/2026_06_29_upm_text_byte_in_out_layer)
+* Godot [Package](https://github.com/EloiStree/2026_06_29_gdp_text_byte_in_out_layer)
 * Any platform capable of sending and receiving text or binary messages
 
 
